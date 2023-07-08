@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-void main ()
+int main ()
 {
-    printf("C Programmig");
+    printf("C Programmig/n");
+    return 0;
 
 }
