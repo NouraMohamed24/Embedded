@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main ()
+{
+    char G;
+    printf("Enter a charcter: ");
+    fflush(stdin);fflush(stdout);
+    scanf("%c", &G);
+    printf("ASCII value of c% = %d",G,G);
+    return 0;
+}
