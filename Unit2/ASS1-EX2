@@ -8,4 +8,5 @@ int main ()
     fflush(stdin);fflush(stdout);
     scanf("%d", &a);
     printf("you entered: %d", a);
+    return 0;
 }
