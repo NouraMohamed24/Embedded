@@ -1,11 +1,13 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-void main ()
+int main ()
 {
     int a;
     printf("Enter a integer");
     fflush(stdin);fflush(stdout);
     scanf("%d,&a");
     printf("You Entered: %d,a");
+    return 0;
  
 }
