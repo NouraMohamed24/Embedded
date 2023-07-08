@@ -3,7 +3,7 @@
 
 int main ()
 {
-    printf("C Programmig/n");
+    printf("C Programmig\n");
     return 0;
 
 }
