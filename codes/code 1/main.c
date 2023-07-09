@@ -3,10 +3,10 @@
 
 int main ()
 {
-    float a ,b;
+    int a ,b;
     printf("Enter two numbers");
     fflush(stdin);fflush(stdout);
-    scanf("%f%f", &a,&b);
-    printf("product: %f", a*b);
+    scanf("%d%d", &a,&b);
+    printf("product: %d", a*b);
     return 0;
 }
